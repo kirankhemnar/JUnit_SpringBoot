@@ -1,4 +1,4 @@
-package com.unit.service;
+package com.spring.junit.service;
 
 public class ArithmeticService {
 

@@ -1,4 +1,4 @@
-package com.unit.service;
+package com.spring.junit.service;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

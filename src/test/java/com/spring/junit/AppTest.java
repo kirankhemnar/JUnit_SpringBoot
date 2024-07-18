@@ -1,4 +1,4 @@
-package com.unit;
+package com.spring.junit;
 
 
 public class AppTest {
